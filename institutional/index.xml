@@ -1,58 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Learn More About the Fandoming Website (About Us, Privacy Policy, Terms of Use, and More) on Fandoming</title>
+    <title>Learn more about the Loud Legends website (About Us, Privacy Policy, Terms of Use, and More) on Fandoming</title>
     <link>https://fandoming.com/institutional/</link>
-    <description>Recent content in Learn More About the Fandoming Website (About Us, Privacy Policy, Terms of Use, and More) on Fandoming</description>
+    <description>Recent content in Learn more about the Loud Legends website (About Us, Privacy Policy, Terms of Use, and More) on Fandoming</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fandoming.com/institutional/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 11 Oct 2024 22:45:41 -0300</lastBuildDate><atom:link href="https://fandoming.com/institutional/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Affiliate Disclosure for Fandoming.com</title>
-      <link>https://fandoming.com/institutional/affiliate-disclosure/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fandoming.com/institutional/affiliate-disclosure/</guid>
-      <description>Last Updated: 2023-12-18
-At Fandoming, we believe in transparency and honesty.</description>
-    </item>
-    
-    <item>
-      <title>Cookie Policy for Fandoming.com</title>
-      <link>https://fandoming.com/institutional/cookie-policy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fandoming.com/institutional/cookie-policy/</guid>
-      <description>Last Updated: 2023-12-10
-Welcome to Fandoming! This Cookie Policy explains how Fandoming (&amp;ldquo;we&amp;rdquo;, &amp;ldquo;us&amp;rdquo;, or &amp;ldquo;our&amp;rdquo;) uses cookies and similar technologies in connection with the &amp;ldquo;fandoming.</description>
-    </item>
-    
-    <item>
-      <title>Learn More About the Fandoming Website</title>
+      <title>Everything You Need to Know About the &#34;Fandoming&#34; Website</title>
       <link>https://fandoming.com/institutional/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 11 Oct 2024 22:45:41 -0300</pubDate>
       
       <guid>https://fandoming.com/institutional/about/</guid>
-      <description>Welcome to Fandoming, your premier destination where passions ignite and fandoms unite!</description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy for Fandoming.com</title>
-      <link>https://fandoming.com/institutional/privacy-policy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fandoming.com/institutional/privacy-policy/</guid>
-      <description>Last Updated:: 2023-12-20
-Welcome to Fandoming! Protecting your privacy is crucial to us.</description>
-    </item>
-    
-    <item>
-      <title>Terms of Use for Fandoming</title>
-      <link>https://fandoming.com/institutional/terms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fandoming.com/institutional/terms/</guid>
-      <description>Last Updated: 2023-11-15
-Welcome to Fandoming! These terms of use (&amp;ldquo;Terms&amp;rdquo;) govern your access to and use of Fandoming&amp;rsquo;s website, services, and applications (collectively, the &amp;ldquo;Site&amp;rdquo;).</description>
+      <description>Fandoming is more than a gaming news site. We’re where passion meets precision, minus the fluff.</description>
     </item>
     
   </channel>

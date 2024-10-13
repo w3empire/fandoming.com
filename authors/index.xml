@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Fandoming</title>
+    <link>https://fandoming.com/authors/</link>
+    <description>Recent content in Authors on Fandoming</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 12 Oct 2024 17:51:10 -0300</lastBuildDate><atom:link href="https://fandoming.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alexander Moretti: All the Latest Gaming News</title>
+      <link>https://fandoming.com/authors/alexander-moretti/</link>
+      <pubDate>Sat, 12 Oct 2024 17:51:10 -0300</pubDate>
+      
+      <guid>https://fandoming.com/authors/alexander-moretti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Justin Ali: All the Latest Gaming News</title>
+      <link>https://fandoming.com/authors/justin-ali/</link>
+      <pubDate>Sat, 12 Oct 2024 17:23:46 -0300</pubDate>
+      
+      <guid>https://fandoming.com/authors/justin-ali/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christopher Ivanov: All the Latest Gaming News</title>
+      <link>https://fandoming.com/authors/christopher-ivanov/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fandoming.com/authors/christopher-ivanov/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
