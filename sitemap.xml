@@ -1,157 +1,302 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://fandoming.com/news/</loc>
-    <lastmod>2024-10-13T20:27:14-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/topics/</loc>
-    <lastmod>2024-10-13T20:27:14-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/</loc>
-    <lastmod>2024-10-13T20:27:14-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/news/game-freak-hit-by-major-leak-new-pokemon-game-details-emerge/</loc>
-    <lastmod>2024-10-13T20:27:14-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/topics/mmo/</loc>
-    <lastmod>2024-10-13T20:27:14-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/topics/multiplayer-games/</loc>
-    <lastmod>2024-10-13T20:27:14-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/topics/nintendo-switch/</loc>
-    <lastmod>2024-10-13T20:27:14-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/topics/nintendo-switch-switch-2/</loc>
-    <lastmod>2024-10-13T20:27:14-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/topics/pokemon/</loc>
-    <lastmod>2024-10-13T20:27:14-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/topics/android/</loc>
-    <lastmod>2024-10-13T20:14:56-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/topics/ios/</loc>
-    <lastmod>2024-10-13T20:14:56-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/topics/mobile-games/</loc>
-    <lastmod>2024-10-13T20:14:56-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/news/pokemon-tcg-pocket-to-launch-october-30-with-digital-card-collection/</loc>
-    <lastmod>2024-10-13T20:14:56-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/topics/pokemon-trading-card-game-pocket/</loc>
-    <lastmod>2024-10-13T20:14:56-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/topics/trading-card-games/</loc>
-    <lastmod>2024-10-13T20:14:56-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/topics/fps/</loc>
-    <lastmod>2024-10-13T20:01:58-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/topics/hero-shooter/</loc>
-    <lastmod>2024-10-13T20:01:58-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/topics/overwatch-2/</loc>
-    <lastmod>2024-10-13T20:01:58-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/topics/pc/</loc>
-    <lastmod>2024-10-13T20:01:58-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/topics/playstation/</loc>
-    <lastmod>2024-10-13T20:01:58-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/news/season-13-of-overwatch-2-arrives-october-15-with-halloween-vibes/</loc>
-    <lastmod>2024-10-13T20:01:58-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/topics/xbox/</loc>
-    <lastmod>2024-10-13T20:01:58-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/topics/action-adventure-games/</loc>
-    <lastmod>2024-10-13T00:29:01-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/topics/grand-theft-auto-6/</loc>
-    <lastmod>2024-10-13T00:29:01-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/news/is-gta-6-delayed-rumors-point-to-2026-release-window/</loc>
-    <lastmod>2024-10-13T00:29:01-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/topics/open-world-games/</loc>
-    <lastmod>2024-10-13T00:29:01-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/topics/pc-games/</loc>
-    <lastmod>2024-10-13T00:29:01-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/news/get-hands-on-with-super-mario-party-jamboree-before-launch/</loc>
-    <lastmod>2024-10-12T22:31:50-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/topics/mario-party/</loc>
-    <lastmod>2024-10-12T22:31:50-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/topics/party-games/</loc>
-    <lastmod>2024-10-12T22:31:50-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/topics/super-mario-party-jamboree/</loc>
-    <lastmod>2024-10-12T22:31:50-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/news/classic-weapons-make-their-way-to-modern-wow-during-20th-anniversary/</loc>
-    <lastmod>2024-10-12T17:51:10-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/topics/mmorpg/</loc>
-    <lastmod>2024-10-12T17:51:10-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/topics/world-of-warcraft/</loc>
-    <lastmod>2024-10-12T17:51:10-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/topics/arcade-games/</loc>
-    <lastmod>2024-10-12T17:37:53-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/topics/fighting-games/</loc>
-    <lastmod>2024-10-12T17:37:53-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/news/virtua-fighter-6-might-be-in-the-works-say-insiders/</loc>
-    <lastmod>2024-10-12T17:37:53-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/topics/virtua-fighter/</loc>
-    <lastmod>2024-10-12T17:37:53-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/topics/virtua-fighter-6/</loc>
-    <lastmod>2024-10-12T17:37:53-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/news/nintendo-teases-new-feature-for-switch-online-users/</loc>
-    <lastmod>2024-10-12T17:23:46-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/news/fan-theory-confirmed-in-silent-hill-2-remake-mary-s-body/</loc>
-    <lastmod>2024-10-12T16:20:37-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/topics/horror-games/</loc>
-    <lastmod>2024-10-12T16:20:37-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/topics/pc-gaming/</loc>
-    <lastmod>2024-10-12T16:20:37-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/topics/playstation-5/</loc>
-    <lastmod>2024-10-12T16:20:37-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/topics/silent-hill-2/</loc>
-    <lastmod>2024-10-12T16:20:37-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/topics/silent-hill-2-remake/</loc>
-    <lastmod>2024-10-12T16:20:37-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/topics/survival-horror/</loc>
-    <lastmod>2024-10-12T16:20:37-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/topics/xbox-series-x/</loc>
-    <lastmod>2024-10-12T16:20:37-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/institutional/about/</loc>
-    <lastmod>2024-10-11T22:45:41-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/institutional/</loc>
-    <lastmod>2024-10-11T22:45:41-03:00</lastmod>
-  </url><url>
-    <loc>https://fandoming.com/search/</loc>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+
+  
+    
+      <url>
+        <loc>https://fandoming.com/news/</loc>
+        
+        <lastmod>2024-10-16T16:57:48-03:00</lastmod>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://fandoming.com/news/ea-sports-fc-25-update-brings-ai-and-passing-fixes-see-details/</loc>
+        
+        <lastmod>2024-10-16T16:57:48-03:00</lastmod>
+        
+        
+        
+      </url>
+    
+  
+    
+  
+    
+      <url>
+        <loc>https://fandoming.com/topics/</loc>
+        
+        <lastmod>2024-10-16T16:57:48-03:00</lastmod>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://fandoming.com/</loc>
+        
+        <lastmod>2024-10-16T16:57:48-03:00</lastmod>
+        
+        
+        
+      </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+        <loc>https://fandoming.com/news/dr-disrespect-slams-kick-after-50-million-offer-rejected/</loc>
+        
+        <lastmod>2024-10-16T16:49:22-03:00</lastmod>
+        
+        
+        
+      </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+        <loc>https://fandoming.com/news/asmongold-resigns-from-otk-and-starforge-systems-amid-twitch-ban/</loc>
+        
+        <lastmod>2024-10-16T16:37:03-03:00</lastmod>
+        
+        
+        
+      </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+        <loc>https://fandoming.com/news/game-freak-hit-by-major-leak-new-pokemon-game-details-emerge/</loc>
+        
+        <lastmod>2024-10-13T20:27:14-03:00</lastmod>
+        
+        
+        
+      </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+        <loc>https://fandoming.com/news/pokemon-tcg-pocket-to-launch-october-30-with-digital-card-collection/</loc>
+        
+        <lastmod>2024-10-13T20:14:56-03:00</lastmod>
+        
+        
+        
+      </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+        <loc>https://fandoming.com/news/season-13-of-overwatch-2-arrives-october-15-with-halloween-vibes/</loc>
+        
+        <lastmod>2024-10-13T20:01:58-03:00</lastmod>
+        
+        
+        
+      </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+        <loc>https://fandoming.com/news/is-gta-6-delayed-rumors-point-to-2026-release-window/</loc>
+        
+        <lastmod>2024-10-13T00:29:01-03:00</lastmod>
+        
+        
+        
+      </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+        <loc>https://fandoming.com/news/get-hands-on-with-super-mario-party-jamboree-before-launch/</loc>
+        
+        <lastmod>2024-10-12T22:31:50-03:00</lastmod>
+        
+        
+        
+      </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+        <loc>https://fandoming.com/news/classic-weapons-make-their-way-to-modern-wow-during-20th-anniversary/</loc>
+        
+        <lastmod>2024-10-12T17:51:10-03:00</lastmod>
+        
+        
+        
+      </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+        <loc>https://fandoming.com/news/virtua-fighter-6-might-be-in-the-works-say-insiders/</loc>
+        
+        <lastmod>2024-10-12T17:37:53-03:00</lastmod>
+        
+        
+        
+      </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+        <loc>https://fandoming.com/news/nintendo-teases-new-feature-for-switch-online-users/</loc>
+        
+        <lastmod>2024-10-12T17:23:46-03:00</lastmod>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://fandoming.com/news/fan-theory-confirmed-in-silent-hill-2-remake-mary-s-body/</loc>
+        
+        <lastmod>2024-10-12T16:20:37-03:00</lastmod>
+        
+        
+        
+      </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+        <loc>https://fandoming.com/institutional/about/</loc>
+        
+        <lastmod>2024-10-11T22:45:41-03:00</lastmod>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://fandoming.com/institutional/</loc>
+        
+        <lastmod>2024-10-11T22:45:41-03:00</lastmod>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://fandoming.com/search/</loc>
+        
+        <lastmod>0001-01-01T00:00:00&#43;00:00</lastmod>
+        
+        
+        
+      </url>
+    
+  
 </urlset>
