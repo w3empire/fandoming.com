@@ -6,11 +6,20 @@
     <description>Recent content in Fandoming: All Our Gaming and Geek Culture Categories in One Place on Fandoming</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Sep 2025 17:19:00 -0300</lastBuildDate><atom:link href="https://fandoming.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Sep 2025 19:20:45 -0300</lastBuildDate><atom:link href="https://fandoming.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tv</title>
+      <link>https://fandoming.com/categories/tv/</link>
+      <pubDate>Fri, 19 Sep 2025 19:20:45 -0300</pubDate>
+      
+      <guid>https://fandoming.com/categories/tv/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>video-games</title>
       <link>https://fandoming.com/categories/video-games/</link>
-      <pubDate>Fri, 19 Sep 2025 17:19:00 -0300</pubDate>
+      <pubDate>Fri, 19 Sep 2025 19:20:45 -0300</pubDate>
       
       <guid>https://fandoming.com/categories/video-games/</guid>
       <description></description>
@@ -40,15 +49,6 @@
       <pubDate>Wed, 27 Aug 2025 00:25:54 -0300</pubDate>
       
       <guid>https://fandoming.com/categories/anime/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tv</title>
-      <link>https://fandoming.com/categories/tv/</link>
-      <pubDate>Wed, 27 Aug 2025 00:25:54 -0300</pubDate>
-      
-      <guid>https://fandoming.com/categories/tv/</guid>
       <description></description>
     </item>
     
