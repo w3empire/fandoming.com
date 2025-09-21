@@ -6,31 +6,40 @@
     <description>Recent content in Fandoming: All Our Gaming and Geek Culture Categories in One Place on Fandoming</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Sep 2025 23:12:08 -0300</lastBuildDate><atom:link href="https://fandoming.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Sep 2025 10:58:40 -0300</lastBuildDate><atom:link href="https://fandoming.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>esports</title>
-      <link>https://fandoming.com/categories/esports/</link>
-      <pubDate>Sat, 20 Sep 2025 23:12:08 -0300</pubDate>
+      <title>comics</title>
+      <link>https://fandoming.com/categories/comics/</link>
+      <pubDate>Sun, 21 Sep 2025 10:58:40 -0300</pubDate>
       
-      <guid>https://fandoming.com/categories/esports/</guid>
+      <guid>https://fandoming.com/categories/comics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>toys</title>
+      <link>https://fandoming.com/categories/toys/</link>
+      <pubDate>Sun, 21 Sep 2025 10:58:40 -0300</pubDate>
+      
+      <guid>https://fandoming.com/categories/toys/</guid>
       <description></description>
     </item>
     
     <item>
       <title>video-games</title>
       <link>https://fandoming.com/categories/video-games/</link>
-      <pubDate>Sat, 20 Sep 2025 23:12:08 -0300</pubDate>
+      <pubDate>Sun, 21 Sep 2025 10:58:40 -0300</pubDate>
       
       <guid>https://fandoming.com/categories/video-games/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>comics</title>
-      <link>https://fandoming.com/categories/comics/</link>
-      <pubDate>Sat, 20 Sep 2025 20:57:29 -0300</pubDate>
+      <title>esports</title>
+      <link>https://fandoming.com/categories/esports/</link>
+      <pubDate>Sat, 20 Sep 2025 23:12:08 -0300</pubDate>
       
-      <guid>https://fandoming.com/categories/comics/</guid>
+      <guid>https://fandoming.com/categories/esports/</guid>
       <description></description>
     </item>
     
