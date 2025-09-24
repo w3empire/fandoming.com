@@ -6,22 +6,31 @@
     <description>Recent content in Fandoming: All Our Gaming and Geek Culture Categories in One Place on Fandoming</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Sep 2025 02:08:33 -0300</lastBuildDate><atom:link href="https://fandoming.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Sep 2025 19:42:41 -0300</lastBuildDate><atom:link href="https://fandoming.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>video-games</title>
-      <link>https://fandoming.com/categories/video-games/</link>
-      <pubDate>Wed, 24 Sep 2025 02:08:33 -0300</pubDate>
+      <title>tv</title>
+      <link>https://fandoming.com/categories/tv/</link>
+      <pubDate>Wed, 24 Sep 2025 19:42:41 -0300</pubDate>
       
-      <guid>https://fandoming.com/categories/video-games/</guid>
+      <guid>https://fandoming.com/categories/tv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>videos</title>
       <link>https://fandoming.com/categories/videos/</link>
-      <pubDate>Tue, 23 Sep 2025 12:59:46 -0300</pubDate>
+      <pubDate>Wed, 24 Sep 2025 19:42:41 -0300</pubDate>
       
       <guid>https://fandoming.com/categories/videos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>video-games</title>
+      <link>https://fandoming.com/categories/video-games/</link>
+      <pubDate>Wed, 24 Sep 2025 02:08:33 -0300</pubDate>
+      
+      <guid>https://fandoming.com/categories/video-games/</guid>
       <description></description>
     </item>
     
@@ -58,15 +67,6 @@
       <pubDate>Sat, 20 Sep 2025 20:57:29 -0300</pubDate>
       
       <guid>https://fandoming.com/categories/movies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tv</title>
-      <link>https://fandoming.com/categories/tv/</link>
-      <pubDate>Sat, 20 Sep 2025 20:57:29 -0300</pubDate>
-      
-      <guid>https://fandoming.com/categories/tv/</guid>
       <description></description>
     </item>
     
